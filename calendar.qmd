@@ -1,0 +1,5 @@
+---
+title: "Calendar"
+---
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&bgcolor=%23ffffff&ctz=Europe%2FZurich&mode=AGENDA&hl=en_GB&showCalendars=0&showTabs=0&showNav=1&showTitle=1&showDate=1&showPrint=0&showTz=0&src=N2Q3OTdiNWFkOTMwMTkyYzk1OTk1NDg4OTMwYmM0MTQzOWE2NzY3OTY3MGQ5YjMwY2NhYjU1NTMzZWIzNjliMUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>

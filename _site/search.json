@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Yada goes here"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "registration.html",
+    "href": "registration.html",
+    "title": "Registration form",
+    "section": "",
+    "text": "Loading…"
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "Calendar",
+    "section": "",
+    "text": "https://calendar.google.com/calendar/ical/7d797b5ad930192c95995488930bc41439a67679670d9b30ccab55533eb369b1%40group.calendar.google.com/public/basic.ics"
+  }
+]

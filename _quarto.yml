@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "International Rapier Seminar 2023"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: registration.qmd
+        text: Registration form
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
